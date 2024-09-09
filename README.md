@@ -17,9 +17,9 @@ Neste repositório, exploramos as seguintes técnicas:
 - **Sensitivity Analysis**
 - **K-Nearest Neighbors (KNN)**
 
-## Foco na Imputação
+## Projeto 01 - Imputação
 
-Dentre as técnicas mencionadas, daremos ênfase à técnica de **Imputação**. A imputação é o processo de substituir valores ausentes em um conjunto de dados por valores substitutos, com o objetivo de manter a maioria das informações presentes no dataset. 
+Dentre as técnicas mencionadas, daremos ênfase à técnica de **Imputação**. A imputação é o processo de substituir valores ausentes em um conjunto de dados por valores substitutos, com o objetivo de manter a maioria das informações presentes no dataset. Optamos por começar com esta técnicas porque acredito ser o mais comum para analistas de dados no dia a dia. Em sua maioria dos casos, esse tipo de técnica já resolverá as principais "dores" do Negócio.
 
 ### Por que Imputar Valores Ausentes?
 
